@@ -24,4 +24,8 @@ int main() {
     printf("Number of consonants: %d\n", consonants);
 
     return 0;
+
+
+
+
 }
